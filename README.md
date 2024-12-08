@@ -23,7 +23,7 @@
 **pip install requests whois colorama**
 
 
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
 ## Made By Morvixent Using Python 
