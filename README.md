@@ -3,7 +3,7 @@
 
 **IP Framework Is A Powerful Python Tool Designed To Help You Manage And Investigate IP Addresses With Ease. It Comes With Cool Features Like Testing The Connectivity Of Any IP Address Through A Ping Command, Performing Detailed WHOIS Lookups To Retrieve Ownership And Registration Information, And Conducting In-Depth Research On Any IP To Get Geolocation, City, Country, And Other Useful Data. You Can Also Retrieve Your Own Connected Wi-Fi IP Addresses (Public And Private) To Understand Your Device's Network Details. This Tool Makes It Simple To Gather Information, Detect VPNs/Proxies, Perform Port Scanning, And Test Rate Limits, Making It A Comprehensive Solution For Networking Tasks.**
 
-## Features
+# Features
 
 **Get Your Connected WiFi's IP: Retrieve Your Public And Private IP Addresses Along With Location Info To Identify Your Device On The Network.**
 
