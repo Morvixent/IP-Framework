@@ -22,7 +22,7 @@
 
 # Requirements
 
-**pip install requests whois colorama**
+- **pip install requests whois colorama**
 
 
 
