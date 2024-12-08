@@ -23,7 +23,6 @@
 **pip install requests whois colorama**
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
 ## Made By Morvixent Using Python 
@@ -31,5 +30,8 @@
 **Here Is A Preview Below To See What It Looks Like:**
 
 ![image](https://github.com/user-attachments/assets/bcfd4fa4-0e8b-4cb0-9b59-9c34e6d0487d)
+
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 
