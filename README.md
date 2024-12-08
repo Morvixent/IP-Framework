@@ -1,3 +1,22 @@
 ## IP-Framework  
 
-![IP Framework Logo](https://github.com/morvixent/ip-framework/raw/main/assets/logo.png)
+
+
+
+
+
+
+
+# Requirements
+
+**-pip install requests whois colorama**
+
+
+
+
+
+## Made By Morvixent Using Python 
+
+
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
