@@ -5,7 +5,7 @@
 
 # Features
 
-**Get Your Connected WiFi's IP: Retrieve Your Public And Private IP Addresses Along With Location Info To Identify Your Device On The Network.**
+- **Get Your Connected WiFi's IP: Retrieve Your Public And Private IP Addresses Along With Location Info To Identify Your Device On The Network.**
 
 **Check An IP Ping: Ping Any IP Address To Test Connectivity And Response Time.**
 
