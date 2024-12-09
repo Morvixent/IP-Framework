@@ -164,7 +164,10 @@ def rate_limit_test():
     except Exception as e:
         print(f"Error performing rate limit test: {e}")
 
+
 def display_menu():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
     menu_text = f'''
 {Fore.YELLOW}██╗██████╗     ███████╗██████╗  █████╗ ███╗   ███╗███████╗██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗
 ██║██╔══██╗    ██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔════╝██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝
@@ -219,5 +222,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
