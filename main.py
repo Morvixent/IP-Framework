@@ -31,8 +31,10 @@ def get_connected_wifi_ip():
         print(f"Country: {country}")
         print(f"Postcode: {postcode}")
         print(f"Location (Lat, Long): {loc}")
+        input("Press Enter to continue...")  # Wait for user input
     except requests.exceptions.RequestException as e:
         print(f"Error fetching IP info: {e}")
+        input("Press Enter to continue...")
 
 def check_ip_ping():
     target_ip = input("Enter IP address to ping: ")
@@ -44,6 +46,7 @@ def check_ip_ping():
         command = f"ping -c 4 {target_ip}"
     
     os.system(command)
+    input("Press Enter to continue...")  # Wait for user input
 
 def research_ip():
     ip_to_research = input("Enter the IP address to research: ")
@@ -64,9 +67,11 @@ def research_ip():
         print(f"Country: {country}")
         print(f"Postcode: {postcode}")
         print(f"Location (Lat, Long): {loc}")
+        input("Press Enter to continue...")  # Wait for user input
         
     except requests.exceptions.RequestException as e:
         print(f"Error researching IP: {e}")
+        input("Press Enter to continue...")
 
 def port_scanner():
     target_ip = input("Enter the IP address to scan: ")
@@ -87,6 +92,8 @@ def port_scanner():
             print(f"Port {port} is closed.")
         
         sock.close()
+    
+    input("Press Enter to continue...")  # Wait for user input
 
 def whois_lookup():
     ip_address = input("Enter the IP address to perform a WHOIS lookup: ")
@@ -97,9 +104,11 @@ def whois_lookup():
         
         print(f"\nWHOIS Information for {ip_address}:\n")
         print(w)  # This will print the WHOIS data, including registrant, contact, etc.
+        input("Press Enter to continue...")  # Wait for user input
     
     except Exception as e:
         print(f"Error performing WHOIS lookup: {e}")
+        input("Press Enter to continue...")
 
 def vpn_proxy_detection():
     ip_to_check = input("Enter the IP address to check for VPN/Proxy: ")
@@ -112,6 +121,7 @@ def vpn_proxy_detection():
         # Check if the IP address is a VPN, Proxy, or Tor exit node
         if data.get("success", False) == False:
             print(f"Error: {data.get('message', 'Unknown error')}")
+            input("Press Enter to continue...")
             return
         
         vpn_status = "Yes" if data.get("vpn", False) else "No"
@@ -122,8 +132,11 @@ def vpn_proxy_detection():
         print(f"Proxy Detected: {proxy_status}")
         print(f"Tor Exit Node Detected: {tor_status}")
         
+        input("Press Enter to continue...")  # Wait for user input
+        
     except requests.exceptions.RequestException as e:
         print(f"Error checking VPN/Proxy status: {e}")
+        input("Press Enter to continue...")
 
 # New function for Rate Limit Test
 def rate_limit_test():
@@ -161,9 +174,11 @@ def rate_limit_test():
         else:
             print("Server is handling the requests well.")
     
+        input("Press Enter to continue...")  # Wait for user input
+        
     except Exception as e:
         print(f"Error performing rate limit test: {e}")
-
+        input("Press Enter to continue...")
 
 def display_menu():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -222,4 +237,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
