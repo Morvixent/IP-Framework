@@ -20,7 +20,7 @@
 - **Rate Limit Test On An IP: Test How Many Requests An IP Can Handle In A Given Time To Assess Rate Limits.**
 
 
-# Requirements
+# ⚙️ Requirements
 
 - **pip install requests whois colorama**
 
