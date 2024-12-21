@@ -102,35 +102,30 @@ An Online Service To Check The Geolocation And Other Information About IP Addres
 ## 34. [IP Tracker](https://www.ip-tracker.org/)
 Free Service That Lets You Track IP Locations, With Support For Detailed Lookup And Trace Features.
 
-## 35. [ipwhois](https://www.ipwhois.io/)
-A Website Providing IP WHOIS Data, Geolocation Information, And Network Insights.
-
-## 36. [Trace My IP](https://www.tracemyip.org/)
+## 35. [Trace My IP](https://www.tracemyip.org/)
 A Tool For Tracing The Location Of An IP Address And Viewing Its Details.
 
-## 37. [IP Lookup Tool](https://www.iplookuptool.com/)
+## 36. [IP Lookup Tool](https://www.iplookuptool.com/)
 Provides IP Geolocation, Network, And Hostname Information For Any Given IP.
 
-## 38. [IP Tools](https://www.iptools.info/)
+## 37. [IP Tools](https://www.iptools.info/)
 Provides A Suite Of IP Address Lookup And Network Tools, Including Traceroute And WHOIS.
 
-## 39. [IP Whois](https://www.ipwhois.io/)
-Service That Provides Whois Information And Geolocation Details Of IP Addresses.
-
-## 40. [IPRadar](https://www.ipradar.org/)
+## 38. [IPRadar](https://www.ipradar.org/)
 An IP Geolocation Tool That Shows Location, ASN, And Country Information.
 
-## 41. [IP Finder Tool](https://www.ipfindertools.com/)
+## 39. [IP Finder Tool](https://www.ipfindertools.com/)
 A Tool To Find The Geolocation, ASN, And Host Details Of Any IP Address.
 
-## 42. [IP Map](https://www.ipmap.io/)
+## 40. [IP Map](https://www.ipmap.io/)
 An IP Geolocation Tool That Maps The Location Of IP Addresses In Real-Time.
 
-## 43. [MyIPFind](https://www.myipfind.com/)
+## 41. [MyIPFind](https://www.myipfind.com/)
 A Free Tool To Check Your IP Address And Find Out Its Geolocation Details.
 
-## 44. [TrackIP](https://www.trackip.io/)
+## 42. [TrackIP](https://www.trackip.io/)
 IP Tracking Service That Provides Detailed Information About An IP’s Location And Owner.
 
-## 45. [Ping IP](https://pingip.net/)
+## 43. [Ping IP](https://pingip.net/)
 Service That Provides The Ability To Ping And Lookup IP Addresses To Test Their Response Time.
+
