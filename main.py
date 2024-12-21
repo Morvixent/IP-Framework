@@ -200,7 +200,7 @@ def display_menu():
 {Fore.YELLOW}5) Do a WHOIS on an IP
 {Fore.RED}6) VPN/Proxy Detection on an IP
 {Fore.YELLOW}8) Rate Limit Test on an IP
-{Fore.YELLOW}9) Exit
+{Fore.RED}9) Exit
 '''
     print(menu_text)
 
