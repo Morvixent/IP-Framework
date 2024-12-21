@@ -27,9 +27,8 @@
 
 
 
-## Made By Morvixent Using Python 
+# Preview: 
 
-**Here Is A Preview Below To See What It Looks Like:**
 
 ![image](https://github.com/user-attachments/assets/bcfd4fa4-0e8b-4cb0-9b59-9c34e6d0487d)
 
