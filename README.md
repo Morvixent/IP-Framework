@@ -30,7 +30,7 @@
 # Preview: 
 
 
-(![image](https://github.com/user-attachments/assets/33859947-97b6-4b03-bbef-bbe35195f52f)
+![image](https://github.com/user-attachments/assets/33859947-97b6-4b03-bbef-bbe35195f52f)
 
 
 
