@@ -30,7 +30,8 @@
 # Preview: 
 
 
-![image](https://github.com/user-attachments/assets/33859947-97b6-4b03-bbef-bbe35195f52f)
+![image](https://github.com/user-attachments/assets/b89c9594-f8fd-4ce0-b30a-b75956af46f8)
+
 
 
 
